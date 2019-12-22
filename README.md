@@ -14,6 +14,9 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > cd ReduxSimpleStarter
 > npm install
 > npm start
+
+To view 
+> http://localhost:8080/  
 ```
 
 #### Not Familiar with Git?
