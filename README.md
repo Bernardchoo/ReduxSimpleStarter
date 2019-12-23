@@ -12,8 +12,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 > cd ReduxSimpleStarter
+enter your Youtube API key in index.js to get started
 > npm install
 > npm start
+
 
 To view 
 > http://localhost:8080/  
